@@ -105,9 +105,9 @@ Pilih menu 16 untuk memuat kembali data dari file datafilm.txt.
 
 ## Author:
 
-Nama : Dillan Gustav Alfaro
-      Sarah Putri Aqillah
-      Imelvi Karnia Zalukhu
-      Cep Wildan Yanfa
+Nama : Dillan Gustav Alfa
+       Imelvi Karnia Zalukhu 
+       Sarah putri Aqilah 
+       Cep Wildan Yanfa
 Mata Kuliah : Algoritma & Struktur Data
 Bahasa Pemrograman : Java
